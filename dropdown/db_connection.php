@@ -1,7 +1,7 @@
 <?php $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "country_database";
+$dbname = "geo_data";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
